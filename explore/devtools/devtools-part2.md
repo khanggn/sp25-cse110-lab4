@@ -1,0 +1,2 @@
+1.  The bug looks like when the user tries to input the two numbers, it is stores as a string rather than an acutal number so when adding the two numbers it is trying to concatenate it. 
+2. I think to fix it you need to store the numbers being inputed as acutal number variables rather than string variables. TO do this, I looked up how to turn an input into a number and we can use the function Number(). 
